@@ -1,4 +1,7 @@
 # Taller1EDatos_verFinal
+comandos desde el terminal de VSCode:
+g++ -o taller1 taller1.cpp
+./taller1
 Nombre: Javier Ignacio Moraga Sanhueza
 Rut: 20.028.499-2
 
